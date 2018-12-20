@@ -8,6 +8,9 @@ If you want to communicate with the Matlab module you need also:
 - To install the matlab module: https://github.com/misaki43/Multimodal-prediction-of-intention-with-ProMPs/tree/VTSFE.
 
 
+DATA :
+To try this software, you can use data available there: https://github.com/inria-larsen/activity-recognition-prediction-wearable/tree/master/VTSFE/data/7x10_actions
+
 Information: 
 The connector.py is a programm that uses YARP to communicate with a Matlab module. 
 
